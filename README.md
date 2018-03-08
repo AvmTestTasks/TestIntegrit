@@ -8,6 +8,7 @@ TASK:
 
 // polygon vertices
 static const int xv[]={39,38,12,14,31,27,40,46,46,34,34,49,49,51,15};
+
 static const int yv[]={51,57,43, 7,27,34,25,21,13,13, 8, 8,13,50,37};
 
 // points
