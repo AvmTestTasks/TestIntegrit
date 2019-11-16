@@ -1,4 +1,4 @@
-# IntegritTest
+# TestIntegrit
 Вот задача для реализации на языке C:
 
 TASK:
